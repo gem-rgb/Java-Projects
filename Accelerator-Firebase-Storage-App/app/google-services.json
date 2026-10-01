@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "874605566779",
+    "firebase_url": "https://my-accelerator-storage-app.firebaseio.com",
+    "project_id": "my-accelerator-storage-app",
+    "storage_bucket": "my-accelerator-storage-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874605566779:android:05ed87857ed6706c50f51e",
+        "android_client_info": {
+          "package_name": "com.king.acceleratorfirebasestorageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874605566779-c3lodljq9p84cu7dv31hoejinqhb9ge5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.king.acceleratorfirebasestorageapp",
+            "certificate_hash": "250797fad1c9296296f785ce0caff78b2da6b6fd"
+          }
+        },
+        {
+          "client_id": "874605566779-dqjmdaqh13r2418se6ph8n44tppcss6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzs2oPBrvdCuhu12uCxZvOYMYhZnEYIL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874605566779-dqjmdaqh13r2418se6ph8n44tppcss6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
